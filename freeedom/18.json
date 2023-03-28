@@ -1,37 +1,4 @@
-{
-    "Ads": [
-      {
-        "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "ca-app-pub-5679606727041049/4956998349",
-        "main_ads_intertitial":"ca-app-pub-5679606727041049/5222105117",
-        "main_ads_natives":"ca-app-pub-5679606727041049/5692878403",
-        "backup_ads_natives":"",
-        "backup_ads_banner":"",
-        "backup_ads_intertitial":"",
-        "open_ads_admob":"ca-app-pub-5679606727041049/3066715063",
-        "open_ads_alien":"",
-        "switch_open_ads":"",
-        "switch_banner_natives_ads":"",
-        "interval_intertitial": 3,
-        "initialize_sdk":"",
-        "initialize_sdk_backup_ads":"",
-        "high_paying_keyword_1": "investasi",
-        "high_paying_keyword_2": "pinjaman",
-        "high_paying_keyword_3": "saham",
-        "high_paying_keyword_4": "crypto",
-        "high_paying_keyword_5": "penghasilan",
-        "status_app": "0",
-        "link_redirect": "https://ptmencaricintasejati.com"
-      }
-   ],
-    "Data": [
-      {
-        "id": 3,
-        "name_category": "Tentang",
-        "title": "Apa itu pinjol?",
-        "image": {
-    "Ads": [
+     "Ads": [
       {
         "select_main_ads": "ADMOB",
         "select_backup_ads":"APPLOVIN-D",

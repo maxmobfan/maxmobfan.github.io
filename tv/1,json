@@ -1,17 +1,17 @@
 {
     "Ads": [
       {
-        "select_main_ads": "APPLOVIN-D",
+        "select_main_ads": "ADMOB",
         "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "",
-        "main_ads_intertitial":"",
-        "main_ads_natives":"",
+        "main_ads_banner": "ca-app-pub-7919619178296075/7213567961",
+        "main_ads_intertitial":"ca-app-pub-7919619178296075/4587404627",
+        "main_ads_natives":"ca-app-pub-7919619178296075/5676043441",
         "backup_ads_natives":"",
         "backup_ads_banner":"",
         "backup_ads_intertitial":"",
-        "open_ads_admob":"",
+        "open_ads_admob":"ca-app-pub-7919619178296075/3274322953",
         "open_ads_alien":"",
-        "switch_open_ads":"",
+        "switch_open_ads":"1",
         "switch_banner_natives_ads":"",
         "interval_intertitial": 3,
         "initialize_sdk":"",
@@ -23,6 +23,88 @@
         "high_paying_keyword_5": "penghasilan",
         "status_app": "1",
         "link_redirect": "https://ptmencaricintasejati.com"
+      }
+   ],
+    "Data": [
+      {
+        "id": 3,
+        "name_category": "Tentang",
+        "title": "Whats IPTV?",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV",
+        "link": "IPTV stands for Internet Protocol Television, which is a technology for delivering television services over the internet. With IPTV, TV programs and other video content are streamed through internet protocol networks rather than traditional terrestrial, satellite, or cable television formats. This allows for a more flexible and customizable viewing experience, as viewers can access content on-demand and from a variety of devices, including smart TVs, smartphones, and computers. IPTV services can be delivered through various formats, including live streaming, video-on-demand, and time-shifted media.."
+      },
+      {
+        "id": 1,
+        "name_category": "Tutorial",
+        "title": "IPTV Function?",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV Function",
+        "link": "The function of IPTV is to deliver television services over the internet using internet protocol networks. IPTV offers a range of benefits compared to traditional terrestrial, satellite, or cable television services. Some of the key functions of IPTV include: Flexibility: IPTV allows viewers to access content on-demand and from a variety of devices, including smart TVs, smartphones, and computers. Customizability: IPTV services can be customized based on individual preferences, such as language options, subtitles, and audio tracks. Interactivity: IPTV offers interactive features such as on-screen menus, program guides, and interactive applications. Cost-effective: IPTV services can be more cost-effective than traditional television services, as they do not require the installation of satellite dishes or cable wiring. High-quality video: IPTV delivers high-quality video and audio content, as the content is streamed using internet protocol networks that can handle large amounts of data."
+      },
+      {
+        "id": 2,
+        "name_category": "Tutorial",
+        "title": "How to Stream IPTV?",
+        "image": "file:///android_asset/b1.png",
+        "description": "How to Stream IPTV",
+        "link": "To stream IPTV, you need a device or application that can connect to an IPTV service and play the content. Here are the general steps to stream IPTV: Choose an IPTV service provider: There are many IPTV service providers available, so choose one that fits your needs and budget. Sign up for the service: Once you have chosen a provider, sign up for their service and follow the instructions provided. Obtain an IPTV player: There are many IPTV players available, including dedicated set-top boxes, smart TVs, and applications for smartphones, tablets, and computers. Install and set up the player: Depending on the player, you may need to install it on your device and configure it with your IPTV service provider account information. Access the content: Once you have the IPTV player set up, you can access the content provided by your IPTV service provider. This typically involves selecting channels or content from a menu or program guide. It's worth noting that the specific steps to stream IPTV may vary depending on the provider and player you choose. It's important to follow the instructions provided by your IPTV service provider and player manufacturer for the best results."
+      },
+      {
+        "id": 4,
+        "name_category": "Tutorial",
+        "title": "IPTV Program?",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV Program?",
+        "link": "An IPTV program is a software application or service that allows users to access and stream television content over the internet using internet protocol networks. IPTV programs typically provide a range of features and functions, including: Live TV channels: IPTV programs provide access to live TV channels, often with a wide range of local and international options. Video-on-demand: Many IPTV programs also offer a video-on-demand service, allowing users to watch previously aired TV shows and movies at their convenience. Time-shifted media: Some IPTV programs allow users to pause, rewind, and fast-forward through live TV shows and events, providing greater flexibility and control over their viewing experience. Interactive features: Many IPTV programs include interactive features, such as program guides, on-screen menus, and social media integration. Multi-device support: IPTV programs can be accessed on a wide range of devices, including smart TVs, smartphones, tablets, and computers. It's worth noting that the specific features and functions of an IPTV program may vary depending on the provider and the program itself. Some IPTV programs may be free, while others require a subscription fee or one-time purchase."
+      },
+      {
+        "id": 5,
+        "name_category": "Tutorial",
+        "title": "IPTV Online",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV Online",
+        "link": "IPTV online refers to the ability to access and stream television content over the internet using internet protocol networks. IPTV online services allow users to watch live TV channels, video-on-demand, and time-shifted media from anywhere with an internet connection. With IPTV online, users can access a wide range of local and international TV channels and programming, often with customizable options such as language settings and subtitles. IPTV online services can be accessed through a variety of devices, including smart TVs, smartphones, tablets, and computers. Some IPTV online services require a subscription fee or one-time payment, while others may offer free content. It's important to note that not all IPTV online services are legal, and some may offer pirated content. It's important to do research and choose a reputable IPTV online service provider to ensure a safe and legal viewing experience."
+      },
+      {
+        "id": 6,
+        "name_category": "Tutorial",
+        "title": "IPTV Signal ?",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV Signal ?",
+        "link": "An IPTV signal is a digital signal that is transmitted over internet protocol (IP) networks to deliver television content to viewers. IPTV signals can be delivered using a variety of protocols, such as HTTP, RTSP, or RTP, and can be received using a range of devices, including smart TVs, set-top boxes, and mobile devices. IPTV signals are transmitted over IP networks using a process known as streaming. This involves breaking the television content into small packets and sending them over the network in real-time. The packets are then reassembled at the receiving end to recreate the original television content. IPTV signals can be delivered in a variety of formats, including live TV channels, video-on-demand, and time-shifted media. The quality of the IPTV signal can depend on a variety of factors, such as the speed and reliability of the internet connection, the type of device used to receive the signal, and the quality of the original content."
+      },
+      {
+        "id": 7,
+        "name_category": "Tutorial",
+        "title": "IPTV Acces?",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV Acces",
+        "link": " Access to IPTV can be obtained through a variety of ways, depending on the provider and the device used. Here are some common methods for accessing IPTV: Smart TVs: Some newer model smart TVs have built-in IPTV apps or software that allow users to access IPTV channels directly on their TV without any additional hardware. Set-top boxes: Dedicated IPTV set-top boxes such as the Roku, Apple TV, and Amazon Fire TV Stick can be used to access IPTV channels on any TV with an HDMI input. Mobile devices: There are a variety of IPTV apps available for smartphones and tablets that allow users to access IPTV channels on their mobile devices. Computers: IPTV can also be accessed on computers through web browsers or dedicated software applications. Once the access method is determined, the user will need to obtain an IPTV subscription from an IPTV service provider to access the channels or content. The subscription can typically be purchased online from the provider's website or through a reseller. Once the subscription is purchased, the user will receive login credentials or an activation code to access the IPTV channels or content.."
+      },
+      {
+        "id": 8,
+        "name_category": "Tutorial",
+        "title": "IPTV MOBILE",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV MOBILE",
+        "link": "IPTV can be accessed on mobile devices through a variety of IPTV apps that are available for both iOS and Android platforms. These apps allow users to stream live TV channels, video-on-demand, and time-shifted media directly on their smartphones or tablets. To access IPTV on mobile devices, users need to download and install an IPTV app from the app store on their device. Some popular IPTV apps include IPTV Smarters, GSE Smart IPTV, and Perfect Player. Once the app is installed, users will need to obtain an IPTV subscription from an IPTV service provider to access the channels or content. When setting up the IPTV app, users will need to enter their IPTV service provider's server URL, username, and password to authenticate the connection. Once the connection is established, users can browse through the available channels and content and start streaming. It's important to note that IPTV mobile streaming can use a significant amount of data, especially when streaming high-quality video. Users should ensure that they have a reliable and fast internet connection, and consider using a Wi-Fi connection whenever possible to avoid data overages."
+      },
+      {
+        "id": 9,
+        "name_category": "Tutorial",
+        "title": "IPTV Better",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV VS Conventional",
+        "link": "Whether IPTV is better than conventional TV depends on individual preferences and needs. Here are some factors to consider: Channel availability: IPTV offers a wide range of channels from all over the world, including live TV channels, video-on-demand, and time-shifted media. In contrast, conventional TV channels are limited to the channels that are available in the user's geographic location. Customization: IPTV offers more customization options than conventional TV. Users can choose from a variety of channels, set their own preferences, and even create their own playlists. With conventional TV, users have less control over what they can watch and when. Quality: IPTV offers high-quality video and audio that is often better than conventional TV. IPTV providers can stream content in high definition (HD) and even ultra-high definition (UHD), depending on the user's internet speed and device capabilities. Cost: The cost of IPTV can vary depending on the provider and the package chosen, but it can be more affordable than conventional TV in some cases. IPTV often requires a one-time or recurring subscription fee, whereas conventional TV requires a cable or satellite subscription. Reliability: IPTV can be less reliable than conventional TV in areas with poor internet connectivity or during peak usage times when the network is congested. Ultimately, the decision between IPTV and conventional TV depends on the individual's preferences, needs, and budget."
+      },
+      {
+        "id": 10,
+        "name_category": "Tutorial",
+        "title": "IPTV History",
+        "image": "file:///android_asset/b1.png",
+        "description": "IPTV History",
+        "link": "IPTV, or Internet Protocol Television, has a relatively short history compared to traditional TV broadcasting. Here's a brief overview of the history of IPTV: The early 1990s: The first IP-based TV networks were developed by companies like Precept Software and Vivo in the United States. These networks used IP multicasting to deliver video content over the internet. The late 1990s: The concept of IPTV began to gain momentum with the development of internet-based technologies and the widespread adoption of broadband internet. The early 2000s: Early versions of IPTV were developed by a number of companies, including Microsoft, which launched its IPTV platform in 2005. Other major players in the IPTV industry, including Cisco, Alcatel, and Ericsson, also began developing IPTV solutions. The mid-2000s: The first commercial IPTV services were launched, with the largest early adopters being telecom companies looking to offer triple-play packages (bundled TV, internet, and phone services). The late 2000s to present day: IPTV has continued to grow in popularity and has become a viable alternative to traditional TV broadcasting. Many cable and satellite TV providers have begun to offer IPTV services alongside their traditional TV offerings, and a number of standalone IPTV providers have emerged. Today, IPTV has become a major player in the TV industry, offering viewers more choice and customization options than ever before."
       }
     ]
   }

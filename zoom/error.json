@@ -1,0 +1,391 @@
+ {
+   {
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"PL160825171540",
+      "backup_ads_banner":"PL160825171540",
+      "backup_ads_intertitial":"PL160825171540",
+      "backup_ads_rewards":"PL160825171540",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"PL160825171540",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"PL160825171540",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Kaffah Official",
+      "image": "file:///android_asset/image/kaffah.jpg"
+    },
+    {
+      "name_category": "Qawiyyun Media",
+      "image": "file:///android_asset/image/qawiyyun.jpg"
+    },
+    {
+      "name_category": "Ferry Chanel",
+      "image": "file:///android_asset/image/ferry.jpg"
+    }
+  ],
+  "Video": [
+    {
+      "coins": 100,  "id": 1,
+      "link_video": "https://streamku.xyz/v/Qx1kiK8XOug3SRa",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg",
+      "title": "A Man Called Hero",
+      "kualitas": "HD",
+      "name_category": "2022",
+      "description": "85 Min",
+      "negara": "China",
+      "rilis": "24 Jan 2022"
+    },
+    {
+      "coins": 100,  "id": 2,
+      "link_video": "https://streamku.xyz/v/lHgfM5c4BtZoxCV",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/xlVwKeer0Ij8XOxs0lGPxvlmTL7.jpg",
+      "title": "A Mirror Kill Magic",
+      "kualitas": "HD",
+      "name_category": "2021",
+      "description": "81 Min",
+      "negara": "China",
+      "rilis": "4 Nov 2021"
+    },
+    {
+      "coins": 100,  "id": 3,
+      "link_video": "https://streamku.xyz/v/FCdD88g6pXq4luv",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/hVgTZdg25d8RN2hIHbqSTijdeX1.jpg",
+      "title": "Acharya",
+      "kualitas": "HD",
+      "name_category": "2022",
+      "description": "152 Min",
+      "negara": "India",
+      "rilis": "29 Apr 2022"
+    },
+    {
+      "coins": 100,  "id": 4,
+      "link_video": "https://streamku.xyz/v/xNjS6iXKg1DAjV1",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg",
+      "title": "A Day to Die",
+      "kualitas": "HD",
+      "name_category": "2022",
+      "description": "101 Min",
+      "negara": "USA",
+      "rilis": "4 Mar 2022"
+    },
+    {
+      "coins": 100,  "id": 5,
+      "link_video": "https://streamku.xyz/v/BJNQFbB5FR9psdT",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/p1LbrdJ53dGfEhRopG71akfzOVu.jpg",
+      "title": "After the Pandemic",
+      "kualitas": "HD",
+      "name_category": "2022",
+      "description": "84 Min",
+      "negara": "USA",
+      "rilis": "1 Mar 2022"
+    },
+    {
+      "coins": 100,  "id": 6,
+      "link_video": "https://streamku.xyz/v/PWM2df9Ez7EGouu",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/cAITdbK2tOSvbcs1C7HxBW1iscI.jpg",
+      "title": "A Hard Day",
+      "kualitas": "HD",
+      "name_category": "2014",
+      "description": "111 Min",
+      "negara": "Korea",
+      "rilis": "29 May 2014"
+    },
+    {
+      "coins": 100,  "id": 7,
+      "link_video": "https://streamku.xyz/v/6VPxrzoI1f2tqUb",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg",
+      "title": "Agent Game",
+      "kualitas": "HD",
+      "name_category": "2022",
+      "description": "90 Min",
+      "negara": "USA",
+      "rilis": "8 Apr 2022"
+    },
+    {
+      "coins": 100,  "id": 8,
+      "link_video": "https://streamku.xyz/v/wv5uvEOONuAo0OQ",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/bI1ZDRkerXrcaFa5kWjEMw80aqE.jpg",
+      "title": "Alien Sniperess",
+      "kualitas": "HD",
+      "name_category": "2022",
+      "description": "94 Min",
+      "negara": null,
+      "rilis": "8 Apr 2022"
+    },
+    {
+      "coins": 100,  "id": 9,
+      "link_video": "https://streamku.xyz/v/vRfPWkrkkNlirS1",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/msvkZUFP7I9XOHyQmdPCyrKVlaP.jpg",
+      "title": "Alleyway",
+      "kualitas": "HD",
+      "name_category": "2021",
+      "description": null,
+      "negara": null,
+      "rilis": "25 Jun 2021"
+    },
+    {
+      "coins": 100,  "id": 10,
+      "link_video": "https://streamku.xyz/v/eLBU2rXloMM3cSP",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+      "title": "65",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "93 Min",
+      "negara": "Canada",
+      "rilis": "2 Mar 2023"
+    },
+    {
+      "coins": 100,  "id": 11,
+      "link_video": "https://streamku.xyz/v/YyRW9djhbHBjQwJ",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "125 Min",
+      "negara": "USA",
+      "rilis": "15 Feb 2023"
+    },
+    {
+      "coins": 100,  "id": 12,
+      "link_video": "https://streamku.xyz/v/VbnIwkOTpeqxlRs",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/mMJJO4rxuN0Ge1EYQ68ZxzRZoNo.jpg",
+      "title": "True and False Jigong",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "80 Min",
+      "negara": "China",
+      "rilis": "5 Feb 2023"
+    },
+    {
+      "coins": 100,  "id": 13,
+      "link_video": "https://streamku.xyz/v/R8aHA7MJlGZURX1",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/qEtjiDTX3wnC9GkaxezwLWjShWo.jpg",
+      "title": "72 Hours \u2013 Operation Gold",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "101 Min",
+      "negara": "Hong Kong",
+      "rilis": "9 Aug 2023"
+    },
+    {
+      "coins": 100,  "id": 14,
+      "link_video": "https://streamku.xyz/v/yd6J84Ot2fU51Jb",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/tYbSGAVbyACEExptLu63CxCGm4O.jpg",
+      "title": "The Alpinist",
+      "kualitas": "HD",
+      "name_category": "2021",
+      "description": "93 Min",
+      "negara": "Austria",
+      "rilis": "7 Sep 2021"
+    },
+    {
+      "coins": 100,  "id": 15,
+      "link_video": "https://streamku.xyz/v/uDlMB6p1KVO03k8",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/zuw3blK5tIRpv4lLnApeMLMn4bz.jpg",
+      "title": "Tell Me a Creepy Story",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "86 Min",
+      "negara": null,
+      "rilis": "9 May 2023"
+    },
+    {
+      "coins": 100,  "id": 16,
+      "link_video": "https://streamku.xyz/v/4xS8ApTIDc7ySax",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/sY8GRisCOnqs8mDRfOsU5OzOYRX.jpg",
+      "title": "Sugapa",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": null,
+      "negara": "Philippines",
+      "rilis": "25 Aug 2023"
+    },
+    {
+      "coins": 100,  "id": 17,
+      "link_video": "https://streamku.xyz/v/e4w62Huf9zsQWnx",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/uvy0IEm04MBMYEdcaq3Ont9mNR1.jpg",
+      "title": "Squared Love Everlasting",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "102 Min",
+      "negara": "Poland",
+      "rilis": "23 Aug 2023"
+    },
+    {
+      "coins": 100,  "id": 18,
+      "link_video": "https://streamku.xyz/v/hy8MmzHsNZ70Ep0",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/q17tXNROOslj7uCGicKNlIf9Rx6.jpg",
+      "title": "LEGO Disney Princess: The Castle Quest",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "47 Min",
+      "negara": "Denmark",
+      "rilis": "18 Aug 2023"
+    },
+    {
+      "coins": 100,  "id": 19,
+      "link_video": "https://streamku.xyz/v/oPCCZnselde1o19",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/u6diKrcdQ6HJVrc68ItISYmoit0.jpg",
+      "title": "Bliss",
+      "kualitas": "HD",
+      "name_category": "2017",
+      "description": "100 Min",
+      "negara": "Philippines",
+      "rilis": "10 May 2017"
+    },
+    {
+      "coins": 100,  "id": 20,
+      "link_video": "https://streamku.xyz/v/ASdwtAXmDiluYLI",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/AnjaFZIFNnb8QJuJLqeSc86WbEc.jpg",
+      "title": "Barbarian Invasion",
+      "kualitas": "HD",
+      "name_category": "2021",
+      "description": "106 Min",
+      "negara": "China",
+      "rilis": "20 Jun 2021"
+    },
+    {
+      "coins": 100,  "id": 21,
+      "link_video": "https://streamku.xyz/v/CHUJSdtsldYGSo3",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/tUez9nfKgolfL2seCMFz2VofgI2.jpg",
+      "title": "Apaches: Gang of Paris",
+      "kualitas": "HD",
+      "name_category": "2023",
+      "description": "95 Min",
+      "negara": "France",
+      "rilis": "29 Mar 2023"
+    },
+    {
+      "coins": 100,  "id": 22,
+      "link_video": "https://streamku.xyz/v/72JgPpFrNK1BYs8",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/08/cfGfVLvXwe0a5W519dvTcISq82Y.jpg",
+      "title": "And Your Bird Can Sing",
+      "kualitas": "HD",
+      "name_category": "2018",
+      "description": "106 Min",
+      "negara": "Japan",
+      "rilis": "1 Sep 2018"
+    },
+    {
+      "coins": 100,  "id": 23,
+      "link_video": "https://streamku.xyz/v/i0mVOHS4SuAv2Sw",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/nmqyewAS2fbpXUKKEl5VehuxdfA.jpg",
+      "title": "Babumoshai Bandookbaaz",
+      "kualitas": "HD",
+      "name_category": "2017",
+      "description": "122 Min",
+      "negara": "India",
+      "rilis": "25 Aug 2017"
+    },
+    {
+      "coins": 100,  "id": 24,
+      "link_video": "https://streamku.xyz/v/6Rcz7ryKYXUn8Ob",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/sliYPOgeUuf62qktgXbfMBmYvj1.jpg",
+      "title": "3 Days to Kill",
+      "kualitas": "HD",
+      "name_category": "2014",
+      "description": "113 Min",
+      "negara": "France",
+      "rilis": "14 Feb 2014"
+    },{
+      "id": 1,
+      "name_category": "Kaffah Official",
+      "title": "Bumi Syam : Tanah Para Nabi",
+      "image": "https://mycloud1.pakecdn.com/XkZwjzzJfPPx6kPw/wp-content/uploads/2023/04/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg",
+      "link_video": "https://streamku.xyz/v/Qx1kiK8XOug3SRa",
+      "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
+      "coins": 100
+    },
+    {
+      "id": 2,
+      "name_category": "Kaffah Official",
+      "title": "Tiupan Sangsakala Hari Kiamat",
+      "image": "file:///android_asset/image/sangsakala.jpg",
+      "link_video": "FCdD88g6pXq4luv",
+      "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
+      "coins": 0
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "Kaffah Official",
+      "title": "Kisah Turunnya Kitab Taurat",
+      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
+      "link_video": "1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw",
+      "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
+      "coins": 300
+    }
+    ,
+    {
+      "id": 4,
+      "name_category": "Qawiyyun Media",
+      "title": "Runtuhnya Israel Di Akhir Zaman",
+      "image": "file:///android_asset/image/israel.jpg",
+      "link_video": "1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw",
+      "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
+      "coins": 100
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Qawiyyun Media",
+      "title": "Sejarah Perang Khandak",
+      "image": "file:///android_asset/image/khandak.jpg",
+      "link_video": "xNjS6iXKg1DAjV1",
+      "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
+      "coins": 0
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Ferry Chanel",
+      "title": "Sejarah Perang Ain Zalut",
+      "image": "file:///android_asset/image/zalut.jpg",
+      "link_video": "1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw",
+      "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
+      "coins": 200
+    }
+  ]
+}

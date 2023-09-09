@@ -1,5 +1,4 @@
- {
-   {
+{
   "Ads": [
     {
       "select_main_ads": "ADMOB",
@@ -357,7 +356,7 @@
       "description": "Silahkan video di unggah ke google drive (support semua format video), ubah mode share ke Anyone with with link. Contoh https://drive.google.com/file/d/1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw/view?usp=sharing \nAmbil ID 1njea7vkI4m1NYTjU4H5q0HXVgHEA3wTw dan masukan kedalam JSON",
       "coins": 300
     }
-    ,
+  ,
     {
       "id": 4,
       "name_category": "Qawiyyun Media",
